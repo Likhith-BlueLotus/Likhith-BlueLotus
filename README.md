@@ -14,9 +14,9 @@
 
 ```yaml
 name: Likhith M
-current_role: Aspiring Software Engineer
+current_role: Software Engineer | AI/ML & Deep Learning Enthusiast 
 location: India
-education: 2nd Year, B.E. in Computer Science (BMSCE)
+education: 3rd Year, B.E. in Computer Science (BMSCE)
 focused_on:
   - AI & Machine Learning
   - Cybersecurity
@@ -25,7 +25,6 @@ skills:
   - Linux & Shell Scripting
   - Data Structures & Algorithms
   - DevOps (CI/CD)
-contact: likhithm2426@gmail.com
 ```
 
 * 🔭 I’m currently working on **AI-driven Web Security Tools**
@@ -65,7 +64,7 @@ contact: likhithm2426@gmail.com
 ---
 
 ## 🎯 Projects & Highlights
-
+<!--
 ### 🔒 **Secure Share**
 
 A real-time file sharing platform with end-to-end encryption and two-factor authentication.
@@ -86,7 +85,7 @@ Showcase of my work, blog, and contact form.
 
 * **Tech:** HTML, CSS, JavaScript, Netlify
 * [Live Site](https://likhith-bluelotus.netlify.app) | [GitHub](https://github.com/likhith-bluelotus/portfolio)
-
+-->
 ---
 
 ## 📫 Get In Touch
@@ -104,4 +103,4 @@ Showcase of my work, blog, and contact form.
 > **Let's build the future together!**
 > If you’re seeking a dedicated developer to elevate your team, I’m just a message away.
 
-<!-- Proudly created with ❤️ by Likhith M -->
+Proudly created with ❤️ by Likhith M 
