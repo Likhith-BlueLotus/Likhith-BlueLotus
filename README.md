@@ -36,7 +36,7 @@ skills:
 * ⚡ Fun fact: I once automated my own home using Raspberry Pi and Python!
 
 ---
-
+<!--
 ## 🛠️ Languages & Tools
 
 
@@ -52,13 +52,14 @@ skills:
 | **Databases & APIs** | MongoDB, MySQL, RESTful APIs                     |
 | **Cloud & DevOps**   | AWS, GCP, Git                                    |
 
+-->
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,scala,bash,matlab,c,html,css" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi" alt="AI/ML Frameworks" />
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,tailwind,redux,nextjs" alt="Web Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux,nextjs" alt="Web Frameworks" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra" alt="Databases" />
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,hadoop,spark,linux,gcp,aws,vscode" alt="DevOps & Cloud" />
 </p>
@@ -69,7 +70,7 @@ skills:
 | **AI/ML & Deep Learning** | PyTorch, TensorFlow, OpenCV, scikit-learn, Computer Vision, NLP, CNNs, Transformers |
 | **Frameworks**          | React.js, React Native, Node.js, Express.js, Tailwind CSS, Next.js, Redux       |
 | **Databases & Big Data**| MongoDB, MySQL, Cassandra, Hadoop, Apache Spark                                 |
-| **Cloud & DevOps**      | Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub, VS Code                       |
+| **Cloud & DevOps**      | Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub,                               |
 
 
 
