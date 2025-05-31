@@ -10,11 +10,11 @@
   
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=likhith-bluelotus\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/likhith-bluelotus)
+
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me [![Profile Views](https://komarev.com/ghpvc/?username=likhith-bluelotus\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/likhith-bluelotus)
 
 ```yaml
 name: Likhith M
