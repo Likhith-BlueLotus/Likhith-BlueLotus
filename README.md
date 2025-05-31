@@ -125,7 +125,10 @@ Brainwave analysis for neurodegenerative disease classification.
 > If you’re seeking a dedicated developer to elevate your team, I’m just a message away.
 
 <div align="center">
-  Proudly created with ❤️ by Likhith M 
-  [![Profile Views](https://komarev.com/ghpvc/?username=likhith-bluelotus\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/likhith-bluelotus)
+  Proudly created with ❤️ by Likhith M <br/>
+  <a href="https://github.com/likhith-bluelotus" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=likhith-bluelotus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </div>
+
 
