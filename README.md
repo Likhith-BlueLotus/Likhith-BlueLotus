@@ -52,6 +52,12 @@ skills:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,linux,firebase,docker,git" alt="Languages and Tools" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
