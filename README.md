@@ -36,23 +36,6 @@ skills:
 * ⚡ Fun fact: I once automated my own home using Raspberry Pi and Python!
 
 ---
-<!--
-## 🛠️ Languages & Tools
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash,matlab,react,pytorch,nodejs,express,mongodb,mysql,aws,gcp,git" alt="Languages and Tools" />
-</p>
-
-| Category             | Technologies                                      |
-|----------------------|-------------------------------------------------|
-| **Languages**        | Python, JavaScript, Java, C++, Shell Scripting, MATLAB |
-| **AI/ML & Deep Learning** | Computer Vision, NLP, CNNs, Transformers         |
-| **Frameworks**       | React.js, React Native, PyTorch, Node.js, Express.js |
-| **Databases & APIs** | MongoDB, MySQL, RESTful APIs                     |
-| **Cloud & DevOps**   | AWS, GCP, Git                                    |
-
--->
 
 ## 🛠️ Languages & Tools
 
@@ -83,6 +66,8 @@ skills:
 
 ---
 
+<div align="center">
+  
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
 | **Languages**           | Python, JavaScript, Java, C++, Scala, Bash, MATLAB, C                           |
@@ -90,6 +75,9 @@ skills:
 | **Frameworks**          | React.js, React Native, Node.js, Express.js, Tailwind CSS, Next.js, Redux       |
 | **Databases & Big Data**| MongoDB, MySQL, Cassandra, Hadoop, Apache Spark                                 |
 | **Cloud & DevOps**      | Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub,                               |
+
+  
+</div>
 
 
 
