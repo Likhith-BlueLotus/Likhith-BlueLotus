@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Holaaa Amigosss!, I'm **Likhith Manjunath**
+# 👋 Hola Amigos!!... I'm **Likhith Manjunath**
 
 ## 🌐 A Passionate Software Engineer | AI/ML & Deep Learning Enthusiast Developer from India 
   
