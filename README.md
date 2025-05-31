@@ -64,35 +64,56 @@ skills:
 ---
 
 ## 🎯 Projects & Highlights
-<!--
-### 🔒 **Secure Share**
+---
 
-A real-time file sharing platform with end-to-end encryption and two-factor authentication.
+## 🎯 Projects & Highlights
 
-* **Tech:** React, Node.js, Express, MongoDB, JWT, AES Encryption
-* [Live Demo](https://secure-share.example.com) | [GitHub](https://github.com/likhith-bluelotus/secure-share)
+### 🌊 Deep Marine Debris Detection (OA – Oceanaus Aegis)
+A real-time marine debris detection system using deep learning.
+- 🧠 **Tech:** YOLOv11, OpenCV, PyTorch  
+- 🚀 Achieved **89% accuracy**, boosting mAP-50 from **0.20 to 0.80**  
+- ⚙️ Reduced processing latency by **40%** via model pruning & OpenCV optimization  
+- 📦 Deployed on **AUVs and UAVs**
 
-### 🧠 **ML Career Predictor**
+---
 
-A machine learning app predicting ideal tech career paths based on skill assessments.
+### 🛍️ Personalized E-Commerce Platform (JAKL)
+A full-stack e-commerce site for apparel with a personalized user experience.
+- 💻 **Tech:** MERN Stack (MongoDB, Express, React, Node.js)  
+- 🛒 Supports full CRUD operations for 100+ items  
+- ⚡ Optimized API response time by **25%**
 
-* **Tech:** Python, Flask, Scikit-learn, PostgreSQL, Docker
-* [GitHub](https://github.com/likhith-bluelotus/ml-career-predictor)
+---
 
-### 🌐 **My Portfolio**
+### 🛠️ Home Service Booking App (Gruha Seva)
+A mobile app for seamless home service bookings and real-time communication.
+- 📱 **Tech:** React Native, Firebase  
+- 💬 In-app chat with real-time updates  
+- ⏱️ Reduced service response times by **30%**
 
-Showcase of my work, blog, and contact form.
+---
 
-* **Tech:** HTML, CSS, JavaScript, Netlify
-* [Live Site](https://likhith-bluelotus.netlify.app) | [GitHub](https://github.com/likhith-bluelotus/portfolio)
--->
+### 🎙️ Real-Time Video Dubbing Platform (Anuvadika)
+Automated video dubbing across multiple languages with low latency.
+- 🧩 **Tech:** Node.js, FFmpeg, Google Cloud Speech-to-Text  
+- 🗣️ Sub-2-second latency per 30s clip  
+- 🌐 Designed microservices for scalable deployment
+
+---
+
+### 🧠 EEG Photo-Stimulation Classification *(Ongoing)*
+Brainwave analysis for neurodegenerative disease classification.
+- 🔬 **Tech:** PyTorch, MNE-Python, CNN–Transformer Hybrid  
+- 📊 Achieved **95% classification accuracy**  
+- ⚡ Cut preprocessing time by **50%**
+
 ---
 
 ## 📫 Get In Touch
 
 <p align="center">
   <a href="mailto:likhithm2426@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/likhith-m-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/likhithmanjunath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/likhith-bluelotus" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
