@@ -41,24 +41,25 @@ skills:
   <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash,matlab,react,reactnative,pytorch,nodejs,express,mongodb,mysql,aws,gcp,git" alt="Languages and Tools" />
 </p>
 
-**Languages:** Python | JavaScript | Java | C++ | Shell Scripting | MATLAB  
-**AI/ML & Deep Learning:** Computer Vision | NLP | CNNs | Transformers  
-**Frameworks:** React.js | React Native | PyTorch | Node.js | Express.js  
-**Databases & APIs:** MongoDB | MySQL | RESTful APIs  
-**Cloud & DevOps:** AWS | GCP | Git
+| Category             | Technologies                                      |
+|----------------------|-------------------------------------------------|
+| **Languages**        | Python, JavaScript, Java, C++, Shell Scripting, MATLAB |
+| **AI/ML & Deep Learning** | Computer Vision, NLP, CNNs, Transformers         |
+| **Frameworks**       | React.js, React Native, PyTorch, Node.js, Express.js |
+| **Databases & APIs** | MongoDB, MySQL, RESTful APIs                     |
+| **Cloud & DevOps**   | AWS, GCP, Git                                    |
+
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhith-bluelotus&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-bluelotus&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=likhith-bluelotus&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-bluelotus&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
----
 
-## 🎯 Projects & Highlights
 ---
 
 ## 🎯 Projects & Highlights
