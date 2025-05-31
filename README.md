@@ -68,18 +68,17 @@ skills:
 
 ### 🌐 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,tailwind,redux,nextjs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux,nextjs" alt="Frameworks" />
 </p>
 
 ### 🗄️ Databases & Big Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=hadoop,spark" alt="Big Data Tools" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,vscode" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github" alt="DevOps Tools" />
 </p>
 
 ---
@@ -90,7 +89,7 @@ skills:
 | **AI/ML & Deep Learning** | PyTorch, TensorFlow, OpenCV, scikit-learn, Computer Vision, NLP, CNNs, Transformers |
 | **Frameworks**          | React.js, React Native, Node.js, Express.js, Tailwind CSS, Next.js, Redux       |
 | **Databases & Big Data**| MongoDB, MySQL, Cassandra, Hadoop, Apache Spark                                 |
-| **Cloud & DevOps**      | Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub, VS Code                       |
+| **Cloud & DevOps**      | Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub,                               |
 
 
 
