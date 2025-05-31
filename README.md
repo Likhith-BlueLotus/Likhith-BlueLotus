@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm **Likhith M**
 
-## 🌐 A Passionate Full-Stack Web Developer from India
+## 🌐 A Passionate Software Engineer | AI/ML & Deep Learning Enthusiast Developer from India
 
 [![Profile Views](https://komarev.com/ghpvc/?username=likhith-bluelotus\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/likhith-bluelotus)
 
@@ -14,7 +14,6 @@
 
 ```yaml
 name: Likhith M
-current_role: Software Engineer | AI/ML & Deep Learning Enthusiast 
 location: India
 education: 3rd Year, B.E. in Computer Science (BMSCE)
 focused_on:
@@ -22,6 +21,7 @@ focused_on:
   - Cybersecurity
 skills:
   - MERN Stack
+  - AI/ML and DL
   - Linux & Shell Scripting
   - Data Structures & Algorithms
   - DevOps (CI/CD)
@@ -37,6 +37,7 @@ skills:
 
 ## 🛠️ Languages & Tools
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash,matlab,react,reactnative,pytorch,nodejs,express,mongodb,mysql,aws,gcp,git" alt="Languages and Tools" />
 </p>
@@ -48,6 +49,7 @@ skills:
 | **Frameworks**       | React.js, React Native, PyTorch, Node.js, Express.js |
 | **Databases & APIs** | MongoDB, MySQL, RESTful APIs                     |
 | **Cloud & DevOps**   | AWS, GCP, Git                                    |
+
 
 
 ---
@@ -120,4 +122,7 @@ Brainwave analysis for neurodegenerative disease classification.
 > **Let's build the future together!**
 > If you’re seeking a dedicated developer to elevate your team, I’m just a message away.
 
-Proudly created with ❤️ by Likhith M 
+<div align="center">
+  Proudly created with ❤️ by Likhith M 
+</div>
+
