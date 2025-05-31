@@ -2,9 +2,15 @@
 
 </p>
 
+<div align="center">
+
 # 👋 Hi there, I'm **Likhith M**
 
-## 🌐 A Passionate Software Engineer | AI/ML & Deep Learning Enthusiast Developer from India
+## 🌐 A Passionate Software Engineer | AI/ML & Deep Learning Enthusiast Developer from India 
+  
+</div>
+
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=likhith-bluelotus\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/likhith-bluelotus)
 
@@ -39,7 +45,7 @@ skills:
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash,matlab,react,reactnative,pytorch,nodejs,express,mongodb,mysql,aws,gcp,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash,matlab,react,pytorch,nodejs,express,mongodb,mysql,aws,gcp,git" alt="Languages and Tools" />
 </p>
 
 | Category             | Technologies                                      |
