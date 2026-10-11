@@ -93,7 +93,7 @@
 
 ```yaml
 Current Work:
-  - Enterprise: Mercedes-Benz R&D (MBCRM, Batchable Data Architecture & Agentforce)
+  - Enterprise: Mercedes-Benz R&D (MBCRM & Agentforce)
   - Quantitative AI: AYVID (Causal Arbitrage, Multi-Agent Execution, Low-Latency C++)
 Core Focus:
   - ML Systems: TensorRT Quantization (INT8/FP8), Edge Inference & Distributed Training
@@ -103,8 +103,8 @@ Core Focus:
 
 ### 🏎️ Mercedes-Benz Research & Development India (MBRDI)
 *Software Engineer Apprentice | Bengaluru, India (Aug 2026 – Present)*
-- **Data Governance & Batch Processing**: Architected enterprise batch processing pipelines enforcing 104 declarative sharing rules across 280+ market-scoped public groups, synchronizing global GEMS data entitlements via `Database.Batchable` retrofit jobs.
-- **Agentforce AI Orchestration**: Deployed multi-agent service & sales automation across 20 languages and 19+ international markets, programmatically isolating records via fine-grained AOR/VDZ sharing logic.
+<!-- - **Data Governance & Batch Processing**: Architected enterprise batch processing pipelines enforcing 104 declarative sharing rules across 280+ market-scoped public groups, synchronizing global GEMS data entitlements via `Database.Batchable` retrofit jobs.
+- **Agentforce AI Orchestration**: Deployed multi-agent service & sales automation across 20 languages and 19+ international markets, programmatically isolating records via fine-grained AOR/VDZ sharing logic. -->
 
 ### 📈 AYVID — AI Quantitative Platform
 *Co-Founder & Lead Systems Engineer | Bengaluru, India (Apr 2026 – Present)*
