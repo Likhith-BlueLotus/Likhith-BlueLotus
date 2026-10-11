@@ -21,7 +21,8 @@
 
 ## 📌 Executive Overview
 
-- 🚗 **Software Engineer Apprentice at Mercedes-Benz Research & Development India (MBRDI)**: Architecting backend batch processing engines (104 declarative sharing rules, 280+ market-scoped public groups, `Database.Batchable` retrofit jobs) and deploying enterprise Agentforce agents across 20 languages and 19+ global markets.
+- 🚗 **Software Engineer Apprentice at Mercedes-Benz Research & Development India (MBRDI)**
+<!-- Architecting backend batch processing engines (104 declarative sharing rules, 280+ market-scoped public groups, `Database.Batchable` retrofit jobs) and deploying enterprise Agentforce agents across 20 languages and 19+ global markets. -->
 - 📈 **Co-Founder & Lead Systems Engineer at AYVID**: Building an AI-native quantitative execution platform handling 12,000+ live graph relations across 30 global exchanges with `<100ms` deterministic Tier-1 routing, sub-millisecond C++ kill switches, and causal arbitrage models.
 - 🛸 **Ex-Autonomous Systems Engineer at EXO Drones**: Designed C++ ROS 2 & uXRCE-DDS middleware (<5ms latency) for GPS-denied navigation, compiled INT8-quantized YOLOv8 on TensorRT for 30+ FPS edge inference, and eliminated 85% of manual pre-flight tests via Isaac Sim & BehaviorTree.CPP.
 - ⚡ **Ex-Data Infrastructure Engineer at IEEE DataPort**: Engineered distributed PySpark pipelines processing 2+ Petabytes of scientific datasets with 99.9% uptime and 4x throughput acceleration.
