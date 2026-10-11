@@ -26,7 +26,7 @@
 - 📈 **Co-Founder & Lead Systems Engineer at AYVID**: Building an AI-native quantitative execution platform handling 12,000+ live graph relations across 30 global exchanges with `<100ms` deterministic Tier-1 routing, sub-millisecond C++ kill switches, and causal arbitrage models.
 - 🛸 **Ex-Autonomous Systems Engineer at EXO Drones**: Designed C++ ROS 2 & uXRCE-DDS middleware (<5ms latency) for GPS-denied navigation, compiled INT8-quantized YOLOv8 on TensorRT for 30+ FPS edge inference, and eliminated 85% of manual pre-flight tests via Isaac Sim & BehaviorTree.CPP.
 - ⚡ **Ex-Data Infrastructure Engineer at IEEE DataPort**: Engineered distributed PySpark pipelines processing 2+ Petabytes of scientific datasets with 99.9% uptime and 4x throughput acceleration.
-- 🧠 **Competitive Programming & Supercomputing**: **LeetCode Knight** (Contest Rating: **2362**, Top ~1.5% globally). Scaled hybrid deep learning models on Ohio Supercomputer cluster to 94.44% accuracy with 3.2x multi-node throughput speedup.
+- 🧠 **Competitive Programming & Supercomputing**: **LeetCode Knight** (Contest Rating: **2362**, Top ~0.39% globally). Scaled hybrid deep learning models on Ohio Supercomputer cluster to 94.44% accuracy with 3.2x multi-node throughput speedup.
 - 🎓 **Education**: B.E. in Computer Science & Engineering, **B.M.S. College of Engineering**, Bengaluru (Graduating May 2026 | CGPA: **9.38 / 10**).
 
 ---
