@@ -10,7 +10,7 @@
   <a href="https://github.com/Likhith-BlueLotus"><img src="https://img.shields.io/badge/GitHub-Likhith--BlueLotus-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:likhithm2426@gmail.com"><img src="https://img.shields.io/badge/Email-likhithm2426%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-009688?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/LeetCode-Knight_(Rating:_2362)-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight_(Rating:_2422)-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
 </p>
 
 > *I engineer low-latency distributed systems, edge-quantized perception pipelines, and autonomous agent architectures. My work spans deterministic robotics middleware, multi-agent LLM systems, and high-throughput big data backends.*
